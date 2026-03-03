@@ -1,5 +1,6 @@
 public class helloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello World!");
+    String[] st = {"Hello World!", "Java is fun!", "Java programming"};
+    System.out.println(st[1]);
   }
 }
